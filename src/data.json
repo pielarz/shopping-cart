@@ -4,7 +4,7 @@
       "id": 0,
       "image": "/images/A.jpeg",
       "title": "Mercedes A class",
-      "description": "Great hatchback",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sapien sem, bibendum nec elementum at, ultricies quis libero. Duis sed blandit arcu. Praesent laoreet commodo laoreet. Ut elementum sagittis libero, ac tincidunt ipsum posuere at. Aliquam erat volutpat. Praesent gravida gravida nisi, in interdum felis luctus quis.",
       "model": "A",
       "price": 100000
     },
@@ -12,7 +12,7 @@
       "id": 1,
       "image": "/images/C.jpeg",
       "title": "Mercedes C class",
-      "description": "Normal sedan",
+      "description": "Praesent dui dui, condimentum a nisi in, consequat cursus mauris. Fusce convallis, tellus ut maximus condimentum, ante nisl viverra ipsum, eu tristique lacus magna vel nulla. Phasellus cursus elementum nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
       "model": "C",
       "price": 155000
     },
@@ -20,7 +20,7 @@
       "id": 2,
       "image": "/images/E.jpeg",
       "title": "Mercedes E class",
-      "description": "Better than C",
+      "description": "Quisque interdum velit justo, in rhoncus arcu condimentum a. Nullam dictum eros nec est tristique dapibus. Nam sit amet blandit lacus. Fusce pellentesque est massa, quis viverra velit molestie vel. Morbi sagittis metus libero, ut placerat nulla ultrices id. Phasellus non cursus sapien, et hendrerit neque.",
       "model": "E",
       "price": 190000
     },
@@ -28,7 +28,7 @@
       "id": 3,
       "image": "/images/G.jpeg",
       "title": "Mercedes G class",
-      "description": "Best allround SUV on the market",
+      "description": "Curabitur at interdum quam. Duis erat ex, suscipit et sem sit amet, varius cursus arcu. Donec elementum at metus vitae aliquet. Vivamus vestibulum neque non accumsan dapibus. Sed vulputate magna ante, eget porttitor ante ornare vel.",
       "model": "G",
       "price": 1000000
     },
@@ -36,7 +36,7 @@
       "id": 4,
       "image": "/images/S.jpeg",
       "title": "Mercedes S class",
-      "description": "Best sedan on the market",
+      "description": "Proin tristique non neque ut rhoncus. Phasellus bibendum sagittis nunc, sit amet venenatis mi vestibulum placerat. Phasellus vehicula metus a laoreet molestie. Mauris at tincidunt lorem. Nunc nec rutrum mauris, ut molestie felis. Curabitur pellentesque ligula risus, quis aliquet orci varius at.",
       "model": "S",
       "price": 900000
     }
