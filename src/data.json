@@ -11,7 +11,7 @@
     {
       "id": 1,
       "image": "/images/C.jpeg",
-      "title": "Mercedes E class",
+      "title": "Mercedes C class",
       "description": "Normal sedan",
       "model": "C",
       "price": 155000
@@ -27,17 +27,17 @@
     {
       "id": 3,
       "image": "/images/G.jpeg",
-      "title": "a title of a car item",
-      "description": "Mercedes G class",
-      "model": "Best allround SUV on the market",
+      "title": "Mercedes G class",
+      "description": "Best allround SUV on the market",
+      "model": "G",
       "price": 1000000
     },
     {
       "id": 4,
       "image": "/images/S.jpeg",
-      "title": "a title of a car item",
-      "description": "Mercedes S class",
-      "model": "Best sedan on the market",
+      "title": "Mercedes S class",
+      "description": "Best sedan on the market",
+      "model": "S",
       "price": 900000
     }
   ]
