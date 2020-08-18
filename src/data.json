@@ -1,0 +1,44 @@
+{
+  "vehicles": [
+    {
+      "id": 0,
+      "image": "/images/A.jpeg",
+      "title": "Mercedes A class",
+      "description": "Great hatchback",
+      "model": "A",
+      "price": 100000
+    },
+    {
+      "id": 1,
+      "image": "/images/C.jpeg",
+      "title": "Mercedes E class",
+      "description": "Normal sedan",
+      "model": "C",
+      "price": 155000
+    },
+    {
+      "id": 2,
+      "image": "/images/E.jpeg",
+      "title": "Mercedes E class",
+      "description": "Better than C",
+      "model": "E",
+      "price": 190000
+    },
+    {
+      "id": 3,
+      "image": "/images/G.jpeg",
+      "title": "a title of a car item",
+      "description": "Mercedes G class",
+      "model": "Best allround SUV on the market",
+      "price": 1000000
+    },
+    {
+      "id": 4,
+      "image": "/images/S.jpeg",
+      "title": "a title of a car item",
+      "description": "Mercedes S class",
+      "model": "Best sedan on the market",
+      "price": 900000
+    }
+  ]
+}
