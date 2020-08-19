@@ -2,12 +2,17 @@ import React, { Component } from "react";
 import Fade from "react-reveal/Fade";
 import Modal from "react-modal";
 import Zoom from "react-reveal/Zoom";
-export default class Products extends Component {
+import { connect } from "react-redux";
+import { fetchVehicles } from "../actions/vehicle";
+class Products extends Component {
   constructor(props) {
     super(props);
     this.state = {
       product: null,
     };
+  }
+  componentDidMount() {
+    this.props.fetchVehicles();
   }
   openModal = (product) => {
     this.setState({ product: product });
@@ -88,3 +93,7 @@ export default class Products extends Component {
     );
   }
 }
+
+export default connect((state) => ({ vehicles: state.vehicles.items }), {
+  fetchVehicles,
+})(Products);
