@@ -19,8 +19,10 @@ Project is created with:
 
 ## Setup
 
-To run this project, clone it locally and run using npm:
+To run this project, clone it and run using npm:
 
 ```
+$ git clone https://github.com/pielarz/shopping-cart.git
+$ cd shopping-cart
 $ npm start
 ```
