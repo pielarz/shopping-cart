@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/status-done%20-green">
+
 ## Table of contents
 
 - [General info](#general-info)
